@@ -1,2 +1,2 @@
-#Simple is better than complex.
+# Simple is better than complex.
 > kuriboh with alx 
