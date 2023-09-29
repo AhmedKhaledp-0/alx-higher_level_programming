@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """
-new
+creat an empty class
 """
 class Rectangle:
+    """empty"""
+    pass
