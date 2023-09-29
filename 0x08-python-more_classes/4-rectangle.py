@@ -54,7 +54,7 @@ class Rectangle:
         for i in range(self.__height):
             for j in range(self.__width):
                 rectangle.append("#")
-                rectangle.append("\n")
+            rectangle.append("\n")
 
         # remove blank line
         rectangle.pop()
